@@ -1,3 +1,8 @@
+'''
+Author:Divya Kuriakose
+Date:19-11-2024
+program for pattern printing
+'''
 #increasing triangle
 limit=int(input("Enter a limit"))
 for i in range(limit):
