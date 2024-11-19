@@ -1,3 +1,7 @@
+'''Author:Divya Kuriakose
+Date:19-11-2024
+program to merge both even and odd number in sorted order
+'''
 list_1=[]
 list_2=[]
 list1_size=int(input("Enter the size of list1:"))
