@@ -1,4 +1,5 @@
-'''A'uthor:Divya Kuriakose
+'''
+Author:Divya Kuriakose
 Date:31-11-2024
 Program to find the number of upper and lower case
 '''
