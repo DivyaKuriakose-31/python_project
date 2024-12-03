@@ -1,3 +1,9 @@
+'''
+Author:Divya Kuriakose
+Date:3-12-2024
+program to find the factorial of a given number
+'''
+
 def factorial(n):
     if n==1:
         return 1
